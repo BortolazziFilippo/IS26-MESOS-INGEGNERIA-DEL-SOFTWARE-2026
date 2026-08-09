@@ -1,5 +1,9 @@
+
+
 # Mesos — Documentazione del Progetto
 
+**Il Gioco da tavolo Mesos e tutto il relativo materiale grafico è di esclusiva proprietà di Cranio Creations.**
+ 
 ## IS26-AM25
 
 **Gruppo:** AM25  
